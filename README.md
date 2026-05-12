@@ -105,6 +105,26 @@ The implemented measures can be found in the following folder:
 
 ---
 
+## Key Findings
+
+Selected insights extracted from the analytical model:
+
+- **High client concentration risk:** the top single client accounts for **28.6%** of net revenue while representing only **15.6%** of units sold — a premium high-ticket account whose loss would significantly impact the P&L. The top 5 clients combined generate approximately **50% of total revenue**, signaling material customer dependency.
+
+- **Distinct buying patterns across top accounts:** Client A and Client B hold a similar share of units (~15.6%) but very different revenue contribution (28.6% vs 8.1%), revealing two clearly differentiated commercial profiles — *premium high-margin* vs *bulk low-ticket* — that should be served with different commercial strategies.
+
+- **Sales rep concentration:** the top 3 sales representatives produce **~56% of total revenue**, with significant variance in average ticket size between them. This points to two opportunities: knowledge transfer from top performers and rebalancing of sales territories.
+
+- **Geographic distribution:** sales are concentrated in central Argentina (Buenos Aires and Córdoba regions), with limited penetration in Patagonia, NOA and Cuyo. These regions represent a meaningful expansion opportunity for territory planning.
+
+- **Balanced brand portfolio:** the top 5 brands range between **21% and 32%** participation, indicating a healthy mix without single-brand dependency — a strong base for negotiation with suppliers.
+
+- **Product family mix:** Clothing and Footwear dominate the category mix, while smaller niche families (bags, paddle gear, swimwear) contribute consistently but at lower volumes — useful for differentiated pricing and promotion strategies.
+
+> *All client, salesperson and brand identifiers have been anonymized. Aggregated percentages are preserved to demonstrate the analytical capability of the model.*
+
+---
+
 ## Roadmap (Optional Improvements)
 - Add incremental refresh for large historical datasets  
 - Implement row-level security (RLS) for role-based access  
